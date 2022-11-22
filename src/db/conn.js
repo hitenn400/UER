@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-const url="mongodb://localhost:27017/Aman_Project_College_MERN";
+const url="mongodb://localhost:27017/Hiten_Project_College_MERN";
 mongoose.connect(url,{
     
 }).then(()=>{
